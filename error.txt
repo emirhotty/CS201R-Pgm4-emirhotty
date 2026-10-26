@@ -1,0 +1,27 @@
+Invalid numeric field: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+Invalid year: B,Hamlet,William Shakespeare,4,Tragedy,214,1600,5
+Invalid numeric field: B,Fahrenheit 451,Ray Bradbury,Sci-Fi,256,1953,8
+Invalid rating: M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis
+Invalid year: B,Crime and Punishment,Fyodor Dostoevsky,7,Crime Fiction,576,1866,15
+Invalid year: S,Baba Yetu,Christopher Tin,10,Choir,203,2025,0
+Invalid numeric field: S,Blinding Lights,the Weeknd,10,9,INVALID,2020,1
+Error in rating provided: 11
+Error in rating provided: -3
+Error in rating provided: -5
+Invalid rating: M,Psych 2: Lassie Come Home,Steve Franks,16,Comedy,115,2020,James Roday,Dule Hill,Timothy Omundson
+Invalid numeric field: S,Respect,Aretha Franklin,ERROR,R&B,281,1967,1
+Invalid numeric field: S,Strawberry Fields Forever,Beatles,9,Pop,ERROR,1967,0
+Invalid numeric field: B,The Brothers Hawthorne,Jennifer Lynn Barnes,9,Mystery,400,ERROR,0
+Invalid year: B,Lessons in Chemistry,Bonnie Garmus,5,Humor,320,2026,0
+Error in rating provided: 15
+Invalid command: K
+Invalid command: L
+Invalid command: L
+Invalid command: L
+Invalid command: F
+Invalid command: F
+Invalid command: F
+Invalid command: K
+Invalid command: K
+Invalid command: K
+Invalid command: K
